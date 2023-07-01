@@ -1,0 +1,4 @@
+﻿  Assembling ex4.1.asm...
+ex4.1.asm(1): error A2044: invalid character in file
+ex4.1.asm(116): warning A4023: with /coff switch, leading underscore required for start address : BEGIN
+D:\VS\IDE\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: 命令“ml.exe /c /nologo /Zi /Fo"Debug\ex4.1.obj" /W3 /errorReport:prompt  /Taex4.1.asm”已退出，返回代码为 1。

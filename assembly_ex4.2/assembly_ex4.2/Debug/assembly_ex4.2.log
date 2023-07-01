@@ -1,0 +1,3 @@
+﻿  Assembling AntiTracking.asm...
+AntiTracking.asm(3): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  assembly_ex4.2.vcxproj -> D:\C(C++)\assembly_ex4.2\Debug\assembly_ex4.2.exe

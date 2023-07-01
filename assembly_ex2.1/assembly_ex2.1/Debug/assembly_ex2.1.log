@@ -1,0 +1,3 @@
+﻿  Assembling optimization.asm...
+optimization.asm(3): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  assembly_ex2.1.vcxproj -> D:\C(C++)\assembly_ex2.1\Debug\assembly_ex2.1.exe
